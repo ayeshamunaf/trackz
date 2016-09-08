@@ -1,0 +1,919 @@
+body{ 
+    background: #cee1dd;
+    margin: 0 auto;
+    max-width: 800mm;
+    font-family: sans-serif
+}
+
+/*--------------------home screen-------------------*/
+
+.container{
+    width: 105mm;
+    height: 200mm;
+    margin-top: 10mm;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.background img{
+    width: 107mm;
+    height: 200mm;
+}
+
+.content{
+    height: 150mm;
+    margin-top: -185mm;
+}
+
+.item-1{
+    width: 74mm;
+    height: 100mm;
+    margin-top: 10mm;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 2mm;
+    background-color: #f4f9f5;
+}
+
+.itemp-1{
+    width: 70mm;
+    height: 50mm;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.itemp-1 img{
+    width: 70mm;
+    height: 50mm;
+    margin-top: 2mm;
+}
+
+.item-1 p{
+    color: #999999;
+    margin-top: 6mm;
+    font-size: 15px;
+    text-align: left;
+    margin-left: 3.5mm;
+}
+
+.item-2{
+    width: 74mm;
+    height: 50mm;
+    margin-top: 2mm;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 2mm;
+    overflow: hidden;
+    background-color: #f4f9f5;
+}
+
+.itemp-2{
+    width: 70mm;
+    height: 50mm;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.itemp-2 img{
+    width: 70mm;
+    height: 50mm;
+    margin-top: 2mm;
+}
+
+.navbar{
+    width: 97mm;
+    height: 15mm;
+    margin-left: 5.5mm;
+    margin-top: -12.5mm;
+    margin-bottom: 10mm;
+    background-color: #a790bf;
+}
+
+.navimg{
+    width: 92mm;
+    height: 15mm;
+    margin-left: 2.5mm;
+}
+
+.home {
+    width: 11mm;
+    height: 15mm;
+}
+
+.home img{
+    width: 8mm;
+    height: 8mm;
+    margin-top: 2mm;
+    margin-left: 1.5mm;
+}
+
+.home p{
+    width: 12mm;
+    color: #fff;
+    font-size: 14px;
+    margin-top: -1mm;
+    
+}
+
+.write {
+    width: 15mm;
+    height: 15mm;
+    margin-left: 14mm;
+    margin-top: -15mm;
+
+}
+
+.write img{
+    width: 8mm;
+    height: 8mm;
+    margin-top: 2mm;
+    margin-left: 3.5mm; 
+}
+
+.write p{
+    width: 16mm;
+    color: #fff;
+    font-size: 14px;
+    margin-top: -1mm;
+}
+
+.status{
+    width: 17mm;
+    height: 15mm;
+    margin-left: 32mm;
+    margin-top: -15mm;
+}
+
+.status img{
+    width: 8mm;
+    height: 8mm;
+    margin-top: 2mm;
+    margin-left: 4.5mm;
+}
+
+.status p{
+    width: 17mm;
+    color: #fff;
+    font-size: 14px;
+    margin-top: -1mm;
+}
+
+.account {
+    width: 18mm;
+    height: 15mm;
+    margin-left: 52mm;
+    margin-top: -15mm;
+}
+
+.account img{
+    width: 8mm;
+    height: 8mm;
+    margin-top: 2mm;
+    margin-left: 4.5mm;
+}
+
+.account p{
+    width: 19mm;
+    color: #fff;
+    font-size: 14px;
+    margin-top: -1mm;
+}
+
+.settings {
+    width: 19mm;
+    height: 15mm;
+    margin-left: 73mm;
+    margin-top: -15mm;
+   
+}
+
+.settings img{
+    width: 8mm;
+    height: 8mm;
+    margin-top: 2mm;
+    margin-left: 5.5mm;
+}
+
+.settings p{
+    width: 19mm;
+    color: #fff;
+    font-size: 14px;
+    margin-top: -1mm;
+}
+
+/*--------------------------upload screen--------------------------------*/
+
+.content2{
+    height: 153.5mm;
+    margin-top: -184mm;
+}
+
+.titlebar{
+    width: 97mm;
+    height:11mm;
+    margin-left: 5.5mm;
+    background-color: #a790bf;
+}
+
+.titletext {
+    width: 27mm;
+    color: #fff;
+    padding-top: 2mm;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.upload{
+    width: 40mm;
+    height: 40mm;
+    margin-top: 11mm;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: dashed;
+    border-radius: 5mm;
+    border-color: #fff;
+}
+
+.upload p{
+    font-size: 50px;
+    color: #fff;
+    text-align: center;
+}
+
+.descrip{
+    width: 69mm;
+    margin-top: 12mm;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.descrip textarea {
+    padding-left: 2mm;
+}
+
+.postbtn{
+    width: 50mm;
+    height: 12mm;
+    margin-top: 10mm;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 1.5mm;
+    background-color: #80b0b7;
+}
+
+.postbtn a {
+    font-size: 20px;
+    color: #fff;
+    letter-spacing: 1mm;
+    text-decoration: none;
+}
+
+.post{
+    width: 15mm;
+    height: 6mm;
+    padding-top: 3mm;
+    margin-left: auto;
+    margin-right: auto;
+}
+  
+/*-----------------------------updates screen------------------------*/
+
+.content3{
+    height: 153.5mm;
+    margin-top: -184mm;
+}
+
+.titletext2 {
+    width: 30mm;
+    color: #fff;
+    padding-top: 2mm;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.sitem-1{
+    width: 74mm;
+    height: 100mm;
+    margin-top: 5mm;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 2mm;
+    background-color: #f4f9f5;
+}
+
+.sitemp-1{
+    width: 70mm;
+    height: 50mm;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.sitemp-1 img{
+    width: 70mm;
+    height: 50mm;
+    margin-top: 2mm;
+}
+
+.sitem-1 p{
+    color: #999999;
+    font-size: 15px;
+    margin-top: 6mm;
+    text-align: left;
+    margin-left: 3.5mm;
+}
+
+/*-------------------------------account screen--------------------------*/
+
+.content4{
+    height: 153.5mm;
+    margin-top: -184mm;
+}
+
+.titletext3 {
+    width: 32mm;
+    color: #fff;
+    padding-top: 2mm;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.edit{
+    width: 8mm;
+    height: 8mm;
+    margin-top: 10mm;
+    margin-left: 20mm;
+}
+
+.edit img{
+    width: 8mm;
+    height: 8mm;
+}
+
+.profile{
+    width: 45mm;
+    height: 45mm;
+    margin-top: -5mm;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: dashed;
+    border-radius: 50mm;
+    border-color: #fff;
+}
+
+.profile  p{
+    margin-top: 16mm;
+    font-size: 50px;
+    color: #fff;
+    text-align: center;
+}
+
+.box-1{
+    width: 90mm;
+    height: 15mm;
+    margin-top: 13mm;
+    margin-left: 9mm;
+    border-top-style: solid;
+    border-top-width: thin;
+    border-top-color: rgba(205, 196, 215, 0.5);
+    border-bottom-style: solid;
+    border-bottom-width: thin;
+    border-bottom-color: rgba(205, 196, 215, 0.5);
+}
+
+.box-1 p{
+    width:33mm;
+    color: #81b0b6;
+    font-size: 17px;
+    margin-top: -10mm;
+    margin-left: 25mm;
+    letter-spacing: 0.5mm;
+}
+
+.icon-1{
+    width: 15mm;
+    height: 15mm;
+    margin-left: 5mm;
+}
+
+.icon-1 img{
+    width: 8mm;
+    height: 8mm;
+    margin-top: 3.5mm;
+    margin-left: 3.5mm;
+}
+
+.arrow{
+    width: 4mm;
+    height: 6mm;
+    margin-top: -11mm;
+    margin-left: 80mm;
+}
+
+.arrow a img{
+    width: 4mm;
+    height: 6mm;
+}
+
+.box-2{
+    width: 90mm;
+    height: 15mm;
+    margin-top: 0mm;
+    margin-left: 9mm;
+    border-bottom-style: solid;
+    border-bottom-width: thin;
+    border-bottom-color: rgba(205, 196, 215, 0.5);
+}
+
+.box-2 p{
+    width: 20mm;
+    color: #81b0b6;
+    font-size: 17px;
+    margin-top: -10mm;
+    margin-left: 25mm;
+    letter-spacing: 0.5mm;
+}
+
+.icon-2{
+    width: 15mm;
+    height: 15mm;
+    margin-left: 5mm;
+}
+
+.icon-2 img{
+    width: 7mm;
+    height: 7mm;
+    margin-top: 4mm;
+    margin-left: 4mm;
+}
+
+.arrow2{
+    width: 4mm;
+    height: 6mm;
+    margin-top: -11mm;
+    margin-left: 80mm;
+}
+
+.arrow2 img{
+    width: 4mm;
+    height: 6mm;
+}
+
+.box-3{
+    width: 90mm;
+    height: 15mm;
+    margin-top: 0mm;
+    margin-left: 9mm;
+    border-bottom-style: solid;
+    border-bottom-width: thin;
+    border-bottom-color: rgba(205, 196, 215, 0.5);
+}
+
+.box-3 p{
+    width: 20mm;
+    color: #81b0b6;
+    font-size: 17px;
+    margin-top: -10mm;
+    margin-left: 25mm;
+    letter-spacing: 0.5mm;
+}
+
+.icon-3{
+    width: 15mm;
+    height: 15mm;
+    margin-left: 5mm;
+}
+
+.icon-3 img{
+    width: 8mm;
+    height: 7mm;
+    margin-top: 4mm;
+    margin-left: 3.5mm;
+}
+
+.arrow3{
+    width: 4mm;
+    height: 6mm;
+    margin-top: -11mm;
+    margin-left: 80mm;
+}
+ 
+.arrow3 img{
+    width: 4mm;
+    height: 6mm;
+}
+
+/*--------------------------------settings screen--------------------------*/
+
+.titletext4 {
+    width: 32mm;
+    color: #fff;
+    padding-top: 2mm;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.trackme{
+    width: 75mm;
+    margin-top: 15mm;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.trackme h3, .time h3, .stoptrack h3{
+    color: #80b0b7;
+}
+
+.switch {
+    position: relative;
+    display: inline-block;
+    float: right;
+    margin-top: -12mm;
+    width: 30mm;
+    height: 9mm;
+}
+
+.switch input {
+    display:none;
+}
+
+.slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+    -webkit-transition: .4s;
+    transition: .4s;
+}
+
+.slider p{
+    color: #999999;
+    font-size: 13px;
+    margin-top: 2.5mm;
+    margin-left: 3mm;
+    word-spacing: 10mm;
+}
+
+.slider:before {         /*------------slider button-----------*/
+    position: absolute;
+    content: "";
+    height: 7mm;
+    width: 14mm;
+    left: 4px;
+    bottom: 4px;
+    background-color: white;
+    -webkit-transition: .4s;
+    transition: .4s;
+}
+
+input:checked + .slider {       /*------colour changes when it checked--------*/
+    background-color: #cdc4d7;
+}
+
+input:checked + .slider:before {
+    -webkit-transform: translateX(14mm);
+    -ms-transform: translateX(14mm);
+     transform: translateX(14mm);
+}
+
+.time {
+    width: 75mm;
+    height: 30mm;
+    margin-top: 10mm;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.hrs, .mint, .am{
+    width: 10mm;
+    height: 8mm;
+}
+
+.time input{
+    padding-left: 3mm;
+}
+
+
+.time-des {
+    color: #999999;
+}
+
+.stoptrack {
+    width: 75mm;
+    height: 20mm;
+    margin-top: 10mm;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.hrs-box input {
+    height: 9mm;
+    padding-left: 3mm;
+    font-size: 15px;
+}
+
+.hrs-box p {
+    color: #999999;
+    padding-top: 2.5mm;
+    margin-top: -10mm;
+    margin-left: 10mm;
+}
+
+/*----------------------------------singup screen--------------------------*/
+
+.logo {
+    width: 30mm;
+    margin-top: 20mm;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.logo img{
+    height: 30mm;
+    width: 30mm;   
+}
+
+.sign-in{     
+    height: 35mm;
+    width: 61mm;
+    margin-top: 15mm;
+    margin-left: auto ;
+    margin-right: auto ;
+}
+
+.sign-in input {
+    padding-left: 3mm;
+}
+
+.usern{
+    height: 9mm;
+    width: 57mm;
+    position: absolute;
+}
+
+.email{
+    height: 9mm;
+    width: 57mm;
+    margin-top: 13mm;
+    position: absolute;
+}
+
+.passw{
+    height: 9mm;
+    width: 57mm;
+    margin-top: 26mm;
+    position: absolute;
+}
+
+.signin-btn {    /*----------------sign up button----------------*/
+    width: 50mm;
+    height: 12mm;
+    margin-top: 10mm;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #82b0b7;
+    border-radius: 1.5mm;
+}
+
+.signin-btn a {
+    font-size: 20px;
+    color: #dbe5e4;
+    letter-spacing: 1mm;
+    text-decoration: none;
+}
+
+.signin{
+    width: 35mm;
+    height: 6mm;
+    padding-top: 3mm;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/*------------------------------------login screen---------------------------*/
+
+.logo {
+    width: 55mm;
+    height: 20mm;
+}
+
+.logo img{
+    width: 55mm;
+    height: 20mm;
+}
+
+.login-box {     
+    height: 30mm;
+    width: 61mm;
+    margin-top: 15mm;
+    margin-left: auto ;
+    margin-right: auto ;
+}
+
+.login-box input {
+    padding-left: 3mm;
+}
+
+.email2 {
+    height: 9mm;
+    width: 57mm;
+    margin-top: 1mm;
+    position: absolute;
+}
+
+.passw2 {
+    height: 9mm;
+    width: 57mm;
+    margin-top: 13mm;
+    position: absolute;
+}
+
+.login-btn {      /*--------------------log in button----------------*/
+    width: 50mm;
+    height: 12mm;
+    margin-top: 6mm;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #81b1b7;
+    border-radius: 1.5mm;
+}
+
+.login-btn a {
+    font-size: 20px;
+    color: #fff;
+    letter-spacing: 1mm;
+    text-decoration: none;
+}
+
+.login{
+    width: 35mm;
+    height: 6mm;
+    padding-top: 3mm;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.forgotpass {
+    width: 41mm;
+    margin-top: 3mm;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.forgotpass a {
+    color: #999999;
+    font-size: 15px;
+    text-decoration: none;
+}
+
+.signup-btn {
+    width: 50mm;
+    height: 12mm;
+    margin-top: 20mm;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #a790bf;
+    border-radius: 1.5mm;
+}
+
+.signup-btn a {
+    font-size: 20px;
+    color: #fff;
+    letter-spacing: 1mm;
+    text-decoration: none;
+}
+
+.signup{
+    width: 35mm;
+    height: 6mm;
+    padding-top: 3mm;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/*------------------------------verify screen-------------------------------*/
+
+.verify {
+    width: 75mm;
+    margin-top: 30mm;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.verify p{
+    font-size: 15px;
+    color: #999999;
+    letter-spacing: 0.5mm;
+    text-align: center;
+}
+
+.code-box {
+    width: 41.5mm;
+    margin-top: 12mm;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.code-box input{
+    padding-left: 3mm;
+}
+
+.code {
+    width: 37mm;
+    height: 9mm;
+}
+
+.verify-btn{
+    width: 50mm;
+    height: 12mm;
+    margin-top: 10mm;
+    font-size: 6mm;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #81b1b7;
+    border-radius: 1.5mm;
+}
+
+.verify-btn a{
+    color: #fff;
+    letter-spacing: 1mm;
+    text-decoration: none;
+}
+
+.continue{
+    width: 31mm;
+    height: 6mm;
+    padding-top: 2.5mm;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/*----------------Reset password screen-----------------*/
+
+.titletext5 {
+    width: 50mm;
+    color: #fff;
+    padding-top: 2mm;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.reset {
+    width:80mm;
+    margin-top: 20mm;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.reset p {
+    font-size: 15px;
+    color: #999999;
+    letter-spacing: 0.5mm;
+    text-align: center;
+}
+
+.email-box {     
+    height: 10mm;
+    width: 61mm;
+    margin-top: 15mm;
+    margin-left: auto ;
+    margin-right: auto ;
+}
+
+.email-box input {
+    padding-left: 3mm;
+}
+
+.reset-btn{
+    width: 50mm;
+    height: 12mm;
+    margin-top: 15mm;
+    font-size: 6mm;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #81b1b7;
+    border-radius: 1.5mm;
+}
+
+.reset-btn a{
+    color: #fff;
+     width: 31mm;
+    height: 6mm;
+    padding-top: 2.5mm;
+    margin-left: auto;
+    margin-right: auto;
+    letter-spacing: 1mm;
+    text-decoration: none;
+}
+
+
+
